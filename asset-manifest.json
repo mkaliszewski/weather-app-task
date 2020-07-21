@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/weather-app-task/static/css/main.808cb233.chunk.css",
+    "main.js": "/weather-app-task/static/js/main.82baecd5.chunk.js",
+    "main.js.map": "/weather-app-task/static/js/main.82baecd5.chunk.js.map",
+    "runtime-main.js": "/weather-app-task/static/js/runtime-main.e801983b.js",
+    "runtime-main.js.map": "/weather-app-task/static/js/runtime-main.e801983b.js.map",
+    "static/js/2.4ba4f759.chunk.js": "/weather-app-task/static/js/2.4ba4f759.chunk.js",
+    "static/js/2.4ba4f759.chunk.js.map": "/weather-app-task/static/js/2.4ba4f759.chunk.js.map",
+    "index.html": "/weather-app-task/index.html",
+    "precache-manifest.b4acf1f96ea234bdb4caf9ebb5efb245.js": "/weather-app-task/precache-manifest.b4acf1f96ea234bdb4caf9ebb5efb245.js",
+    "service-worker.js": "/weather-app-task/service-worker.js",
+    "static/css/main.808cb233.chunk.css.map": "/weather-app-task/static/css/main.808cb233.chunk.css.map",
+    "static/js/2.4ba4f759.chunk.js.LICENSE.txt": "/weather-app-task/static/js/2.4ba4f759.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/weather-app-task/static/media/header_background.5f2f89b4.jpg",
+    "static/media/weather_200.svg": "/weather-app-task/static/media/weather_200.006e1fc7.svg",
+    "static/media/weather_210.svg": "/weather-app-task/static/media/weather_210.ee36c686.svg",
+    "static/media/weather_300.svg": "/weather-app-task/static/media/weather_300.811ba74f.svg",
+    "static/media/weather_500.svg": "/weather-app-task/static/media/weather_500.bd5ad005.svg",
+    "static/media/weather_501.svg": "/weather-app-task/static/media/weather_501.aa522a6c.svg",
+    "static/media/weather_502.svg": "/weather-app-task/static/media/weather_502.5c05e906.svg",
+    "static/media/weather_600.svg": "/weather-app-task/static/media/weather_600.17cafab0.svg",
+    "static/media/weather_601.svg": "/weather-app-task/static/media/weather_601.79d1c380.svg",
+    "static/media/weather_700.svg": "/weather-app-task/static/media/weather_700.0ecbe8be.svg",
+    "static/media/weather_800.svg": "/weather-app-task/static/media/weather_800.ea882d2c.svg",
+    "static/media/weather_801.svg": "/weather-app-task/static/media/weather_801.1075e6dd.svg",
+    "static/media/weather_803.svg": "/weather-app-task/static/media/weather_803.2fd75af0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e801983b.js",
+    "static/js/2.4ba4f759.chunk.js",
+    "static/css/main.808cb233.chunk.css",
+    "static/js/main.82baecd5.chunk.js"
+  ]
+}
