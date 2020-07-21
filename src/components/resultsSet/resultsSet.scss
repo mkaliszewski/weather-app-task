@@ -1,0 +1,22 @@
+@keyframes resultsFadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.resultsSet {
+  width: 100%;
+  height: 100%;
+  padding: 1rem !important;
+
+  &.resultsSet-animation {
+    animation-name: resulsFadeIn;
+    animation-duration: 4s;
+    animation-delay: 5s;
+    animation-fill-mode: forwards;
+  }
+}

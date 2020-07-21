@@ -1,0 +1,29 @@
+.card {
+  background-color: transparent !important;
+  width: 80px !important;
+  margin: 0 !important;
+
+  &.card-week {
+    width: 120px !important;
+  }
+
+  .card__header {
+    text-align: center;
+    color: #fff !important;
+  }
+
+  .card__footer {
+    text-align: center;
+    color: #fff !important;
+  }
+}
+
+.modal {
+  .modal__header {
+    text-align: center;
+  }
+
+  .modal__content {
+    background: linear-gradient(to right, #c5c5c5 0%, #6e7176 100%) !important;
+  }
+}

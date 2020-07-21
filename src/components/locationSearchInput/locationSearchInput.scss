@@ -1,0 +1,43 @@
+.google-places-autocomplete {
+  width: 340px;
+  height: 100px;
+
+  .google-places-autocomplete__input {
+    height: 50px;
+    width: 120px;
+    font-style: italic;
+    font-size: 1.2rem !important;
+    font-weight: 600 !important;
+  }
+  .suggestions {
+    background-color: rgb(204, 204, 204);
+
+    border-right: 2px solid #fff;
+    border-left: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    .suggestion {
+      color: #000;
+      font-size: 1.2rem;
+      height: 60px;
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      padding-left: 4px;
+      border-bottom: 1px solid #000;
+      cursor: pointer;
+
+      &:last-child {
+        border-bottom: none;
+      }
+      &:hover {
+        font-weight: 500;
+        background-color: #fff;
+        color: #000;
+      }
+    }
+  }
+}
